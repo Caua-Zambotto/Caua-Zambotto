@@ -34,6 +34,4 @@ I am currently studying **Computer Engineering** and taking **Alura courses**, w
 
 ---
 
-## ✨ Quote
-
-> *"Insanity is doing the same thing over and over again and expecting different results."*
+🧠 *"Insanity is doing the same thing over and over again and expecting different results."*
